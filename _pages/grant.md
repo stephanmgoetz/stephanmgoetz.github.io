@@ -3,7 +3,7 @@ layout: page
 permalink: /grant/
 title: Grant
 description: 
-nav: true
+nav: false
 nav_order: 6
 ---
 
