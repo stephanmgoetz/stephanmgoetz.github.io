@@ -11,15 +11,15 @@ profiles:
   # and create one content file for each profile inside _pages/
   - align: left
     image: prof_pic.jpg
-    content: about_einstein.md
+    content: kema.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Ke Ma</p>
       <p>PhD, 2021 Michaelmas Entry</p>
 
   - align: left
-    image: prof_pic.jpg
-    content: about_einstein.md
+    image: mowei.jpg
+    content: mowei.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Mowei Lu</p>
@@ -27,7 +27,7 @@ profiles:
 
   - align: left
     image: prof_pic.jpg
-    content: about_einstein.md
+    content: mengjie.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Mengjie Qin</p>
@@ -35,7 +35,7 @@ profiles:
 
   - align: left
     image: prof_pic.jpg
-    content: about_einstein.md
+    content: siwei.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Siwei Liu</p>
