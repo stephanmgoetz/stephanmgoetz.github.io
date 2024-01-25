@@ -24,22 +24,25 @@ profiles:
     more_info: >
       <p>Mowei Lu</p>
       <p>PhD, 2022 Michaelmas Entry</p>
+      <p>ml2010@cam.ac.uk</p>
 
   - align: left
-    image: prof_pic.jpg
+    image: mengjie.jpg
     content: mengjie.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Mengjie Qin</p>
       <p>Visiting Scholar, 2023-2024</p>
+      <p>mq234@cam.ac.uk</p>
 
   - align: left
-    image: prof_pic.jpg
+    image: siwei.jpg
     content: siwei.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Siwei Liu</p>
       <p>PhD, 2023 Michaelmas Entry</p>
+      <p>sl2049@cam.ac.uk</p>
 
   - align: left
     image: life_cam.jpg

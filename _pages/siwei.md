@@ -1,1 +1,1 @@
-My name is Siwei Liu. 
+I am a PhD student in the Department of Engineering at the University of Cambridge, Wolfson College, supervised by Dr. Stephan Goetz. My research concerns mathematical and physical methods of modeling brain stimulation (Transcranial magnetic stimulation, TMS). Before this, I worked as a research assistant at Peking University (supervised by Dr. Guannan He). I obtained my master's degree in Applied Mathematics at the University of Cambridge (Part III) and a bachelor's degree in Applied Mathematics at The Chinese University of Hong Kong, Shenzhen.
