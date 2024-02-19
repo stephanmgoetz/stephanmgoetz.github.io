@@ -10,12 +10,13 @@ profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: left
-    image: prof_pic.jpg
+    image: kema.jpg
     content: kema.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Ke Ma</p>
       <p>PhD, 2021 Michaelmas Entry</p>
+      <p>km834@cam.ac.uk</p>
 
   - align: left
     image: mowei.jpg
