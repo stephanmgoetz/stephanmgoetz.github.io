@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://stephanmgoetz.github.io//sitemap.xml
+Sitemap: https://stephanmgoetz.github.io/sitemap.xml
