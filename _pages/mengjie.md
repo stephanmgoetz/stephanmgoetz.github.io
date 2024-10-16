@@ -1,3 +1,3 @@
-I am currently a joint PhD in the Department of Engineering at the University of Cambridge. My research focuses on exploring integrated topologies, high-temperature module packaging, and the control strategy of resonant converters.
+I am previously a joint PhD in the Department of Engineering at the University of Cambridge. My research focuses on exploring integrated topologies, high-temperature module packaging, and the control strategy of resonant converters.
 Driven by a passion for innovation, I am committed to continuously enhancing my skills and knowledge. My ultimate goal is to contribute meaningfully to the field of power electronics and make a positive impact within the industry.
 I warmly invite you to engage in discussions and collaborations via mq234@cam.ac.uk if you share an interest in my research endeavors. Let's connect and explore new possibilities together!

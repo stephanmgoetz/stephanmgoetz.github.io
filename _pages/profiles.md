@@ -28,15 +28,6 @@ profiles:
       <p>ml2010@cam.ac.uk</p>
 
   - align: left
-    image: mengjie.jpg
-    content: mengjie.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>Mengjie Qin</p>
-      <p>Visiting Scholar, 2023-2024</p>
-      <p>mq234@cam.ac.uk</p>
-
-  - align: left
     image: siwei.jpg
     content: siwei.md
     image_circular: false # crops the image to make it circular
@@ -53,5 +44,32 @@ profiles:
       <p>Lekang Jiang</p>
       <p>PhD, 2023 Michaelmas Entry</p>
       <p>lj408@cam.ac.uk</p>
+  
+  - align: left
+    image: xiaoyang.jpg
+    content: xiaoyang.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Xiaoyang Tian</p>
+      <p>Postdoctoral Research Associate, 2024 Michaelmas Entry</p>
+      <p>xt255@cam.ac.uk</p>
+
+  - align: left
+    image: xuyi.jpg
+    content: xuyi.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Xuyi Hu</p>
+      <p>PhD, 2024 Michaelmas Entry</p>
+      <p>xh365@cam.ac.uk</p>
+
+  - align: left
+    image: mengjie.jpg
+    content: mengjie.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Mengjie Qin</p>
+      <p>Visiting Scholar, 2023-2024</p>
+      <p>mq234@cam.ac.uk</p>
 
 ---
