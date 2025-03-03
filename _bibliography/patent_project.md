@@ -1,10 +1,10 @@
 ---
 layout: page
-permalink: /projects/patents/
+permalink: /patents/
 title: Projects
 description: 
 nav: false
-nav_order: 5
+nav_order: 8
 ---
 
 <div class="container">
